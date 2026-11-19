@@ -1,0 +1,4 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+game_state.jsonl
+__pycache__/
+game_events.jsonl
